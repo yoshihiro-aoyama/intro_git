@@ -1,2 +1,4 @@
 ぎっとの練習
 追加しました
+git add
+git commit
